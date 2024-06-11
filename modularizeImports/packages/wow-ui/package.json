@@ -37,7 +37,8 @@
     "build-storybook": "storybook build",
     "generate:build-config": "tsx ../scripts/generateBuildConfig.ts && prettier --write ./rollup.config.js ./package.json",
     "test-storybook": "test-storybook --browsers firefox chromium webkit",
-    "test": "jest"
+    "test": "jest",
+    "create:text-field-components": "tsx ../scripts/createTextFieldComponents.ts && tsx ../scripts/createTextFieldExports.ts"
   },
   "devDependencies": {
     "@chromatic-com/storybook": "^1.3.3",

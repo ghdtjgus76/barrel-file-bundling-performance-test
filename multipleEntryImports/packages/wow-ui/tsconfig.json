@@ -6,7 +6,7 @@
     "incremental": false,
     "isolatedModules": true,
     "jsx": "react-jsx",
-    "outDir": "dist/types",
+    "outDir": "dist",
     "allowImportingTsExtensions": true,
     "emitDeclarationOnly": true,
     "module": "ES2015",

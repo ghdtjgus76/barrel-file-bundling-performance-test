@@ -50,13 +50,262 @@
       "types": "./dist/components/Chip/index.d.ts",
       "require": "./dist/Chip.cjs",
       "import": "./dist/Chip.js"
+    },
+    "./TextField1": {
+      "types": "./dist/components/TextField1/index.d.ts",
+      "require": "./dist/TextField1.cjs",
+      "import": "./dist/TextField1.js"
+    },
+    "./TextField10": {
+      "types": "./dist/components/TextField10/index.d.ts",
+      "require": "./dist/TextField10.cjs",
+      "import": "./dist/TextField10.js"
+    },
+    "./TextField11": {
+      "types": "./dist/components/TextField11/index.d.ts",
+      "require": "./dist/TextField11.cjs",
+      "import": "./dist/TextField11.js"
+    },
+    "./TextField12": {
+      "types": "./dist/components/TextField12/index.d.ts",
+      "require": "./dist/TextField12.cjs",
+      "import": "./dist/TextField12.js"
+    },
+    "./TextField13": {
+      "types": "./dist/components/TextField13/index.d.ts",
+      "require": "./dist/TextField13.cjs",
+      "import": "./dist/TextField13.js"
+    },
+    "./TextField14": {
+      "types": "./dist/components/TextField14/index.d.ts",
+      "require": "./dist/TextField14.cjs",
+      "import": "./dist/TextField14.js"
+    },
+    "./TextField15": {
+      "types": "./dist/components/TextField15/index.d.ts",
+      "require": "./dist/TextField15.cjs",
+      "import": "./dist/TextField15.js"
+    },
+    "./TextField16": {
+      "types": "./dist/components/TextField16/index.d.ts",
+      "require": "./dist/TextField16.cjs",
+      "import": "./dist/TextField16.js"
+    },
+    "./TextField17": {
+      "types": "./dist/components/TextField17/index.d.ts",
+      "require": "./dist/TextField17.cjs",
+      "import": "./dist/TextField17.js"
+    },
+    "./TextField18": {
+      "types": "./dist/components/TextField18/index.d.ts",
+      "require": "./dist/TextField18.cjs",
+      "import": "./dist/TextField18.js"
+    },
+    "./TextField19": {
+      "types": "./dist/components/TextField19/index.d.ts",
+      "require": "./dist/TextField19.cjs",
+      "import": "./dist/TextField19.js"
+    },
+    "./TextField2": {
+      "types": "./dist/components/TextField2/index.d.ts",
+      "require": "./dist/TextField2.cjs",
+      "import": "./dist/TextField2.js"
+    },
+    "./TextField20": {
+      "types": "./dist/components/TextField20/index.d.ts",
+      "require": "./dist/TextField20.cjs",
+      "import": "./dist/TextField20.js"
+    },
+    "./TextField21": {
+      "types": "./dist/components/TextField21/index.d.ts",
+      "require": "./dist/TextField21.cjs",
+      "import": "./dist/TextField21.js"
+    },
+    "./TextField22": {
+      "types": "./dist/components/TextField22/index.d.ts",
+      "require": "./dist/TextField22.cjs",
+      "import": "./dist/TextField22.js"
+    },
+    "./TextField23": {
+      "types": "./dist/components/TextField23/index.d.ts",
+      "require": "./dist/TextField23.cjs",
+      "import": "./dist/TextField23.js"
+    },
+    "./TextField24": {
+      "types": "./dist/components/TextField24/index.d.ts",
+      "require": "./dist/TextField24.cjs",
+      "import": "./dist/TextField24.js"
+    },
+    "./TextField25": {
+      "types": "./dist/components/TextField25/index.d.ts",
+      "require": "./dist/TextField25.cjs",
+      "import": "./dist/TextField25.js"
+    },
+    "./TextField26": {
+      "types": "./dist/components/TextField26/index.d.ts",
+      "require": "./dist/TextField26.cjs",
+      "import": "./dist/TextField26.js"
+    },
+    "./TextField27": {
+      "types": "./dist/components/TextField27/index.d.ts",
+      "require": "./dist/TextField27.cjs",
+      "import": "./dist/TextField27.js"
+    },
+    "./TextField28": {
+      "types": "./dist/components/TextField28/index.d.ts",
+      "require": "./dist/TextField28.cjs",
+      "import": "./dist/TextField28.js"
+    },
+    "./TextField29": {
+      "types": "./dist/components/TextField29/index.d.ts",
+      "require": "./dist/TextField29.cjs",
+      "import": "./dist/TextField29.js"
+    },
+    "./TextField3": {
+      "types": "./dist/components/TextField3/index.d.ts",
+      "require": "./dist/TextField3.cjs",
+      "import": "./dist/TextField3.js"
+    },
+    "./TextField30": {
+      "types": "./dist/components/TextField30/index.d.ts",
+      "require": "./dist/TextField30.cjs",
+      "import": "./dist/TextField30.js"
+    },
+    "./TextField31": {
+      "types": "./dist/components/TextField31/index.d.ts",
+      "require": "./dist/TextField31.cjs",
+      "import": "./dist/TextField31.js"
+    },
+    "./TextField32": {
+      "types": "./dist/components/TextField32/index.d.ts",
+      "require": "./dist/TextField32.cjs",
+      "import": "./dist/TextField32.js"
+    },
+    "./TextField33": {
+      "types": "./dist/components/TextField33/index.d.ts",
+      "require": "./dist/TextField33.cjs",
+      "import": "./dist/TextField33.js"
+    },
+    "./TextField34": {
+      "types": "./dist/components/TextField34/index.d.ts",
+      "require": "./dist/TextField34.cjs",
+      "import": "./dist/TextField34.js"
+    },
+    "./TextField35": {
+      "types": "./dist/components/TextField35/index.d.ts",
+      "require": "./dist/TextField35.cjs",
+      "import": "./dist/TextField35.js"
+    },
+    "./TextField36": {
+      "types": "./dist/components/TextField36/index.d.ts",
+      "require": "./dist/TextField36.cjs",
+      "import": "./dist/TextField36.js"
+    },
+    "./TextField37": {
+      "types": "./dist/components/TextField37/index.d.ts",
+      "require": "./dist/TextField37.cjs",
+      "import": "./dist/TextField37.js"
+    },
+    "./TextField38": {
+      "types": "./dist/components/TextField38/index.d.ts",
+      "require": "./dist/TextField38.cjs",
+      "import": "./dist/TextField38.js"
+    },
+    "./TextField39": {
+      "types": "./dist/components/TextField39/index.d.ts",
+      "require": "./dist/TextField39.cjs",
+      "import": "./dist/TextField39.js"
+    },
+    "./TextField4": {
+      "types": "./dist/components/TextField4/index.d.ts",
+      "require": "./dist/TextField4.cjs",
+      "import": "./dist/TextField4.js"
+    },
+    "./TextField40": {
+      "types": "./dist/components/TextField40/index.d.ts",
+      "require": "./dist/TextField40.cjs",
+      "import": "./dist/TextField40.js"
+    },
+    "./TextField41": {
+      "types": "./dist/components/TextField41/index.d.ts",
+      "require": "./dist/TextField41.cjs",
+      "import": "./dist/TextField41.js"
+    },
+    "./TextField42": {
+      "types": "./dist/components/TextField42/index.d.ts",
+      "require": "./dist/TextField42.cjs",
+      "import": "./dist/TextField42.js"
+    },
+    "./TextField43": {
+      "types": "./dist/components/TextField43/index.d.ts",
+      "require": "./dist/TextField43.cjs",
+      "import": "./dist/TextField43.js"
+    },
+    "./TextField44": {
+      "types": "./dist/components/TextField44/index.d.ts",
+      "require": "./dist/TextField44.cjs",
+      "import": "./dist/TextField44.js"
+    },
+    "./TextField45": {
+      "types": "./dist/components/TextField45/index.d.ts",
+      "require": "./dist/TextField45.cjs",
+      "import": "./dist/TextField45.js"
+    },
+    "./TextField46": {
+      "types": "./dist/components/TextField46/index.d.ts",
+      "require": "./dist/TextField46.cjs",
+      "import": "./dist/TextField46.js"
+    },
+    "./TextField47": {
+      "types": "./dist/components/TextField47/index.d.ts",
+      "require": "./dist/TextField47.cjs",
+      "import": "./dist/TextField47.js"
+    },
+    "./TextField48": {
+      "types": "./dist/components/TextField48/index.d.ts",
+      "require": "./dist/TextField48.cjs",
+      "import": "./dist/TextField48.js"
+    },
+    "./TextField49": {
+      "types": "./dist/components/TextField49/index.d.ts",
+      "require": "./dist/TextField49.cjs",
+      "import": "./dist/TextField49.js"
+    },
+    "./TextField5": {
+      "types": "./dist/components/TextField5/index.d.ts",
+      "require": "./dist/TextField5.cjs",
+      "import": "./dist/TextField5.js"
+    },
+    "./TextField50": {
+      "types": "./dist/components/TextField50/index.d.ts",
+      "require": "./dist/TextField50.cjs",
+      "import": "./dist/TextField50.js"
+    },
+    "./TextField6": {
+      "types": "./dist/components/TextField6/index.d.ts",
+      "require": "./dist/TextField6.cjs",
+      "import": "./dist/TextField6.js"
+    },
+    "./TextField7": {
+      "types": "./dist/components/TextField7/index.d.ts",
+      "require": "./dist/TextField7.cjs",
+      "import": "./dist/TextField7.js"
+    },
+    "./TextField8": {
+      "types": "./dist/components/TextField8/index.d.ts",
+      "require": "./dist/TextField8.cjs",
+      "import": "./dist/TextField8.js"
+    },
+    "./TextField9": {
+      "types": "./dist/components/TextField9/index.d.ts",
+      "require": "./dist/TextField9.cjs",
+      "import": "./dist/TextField9.js"
     }
   },
   "keywords": [],
   "license": "ISC",
   "scripts": {
     "build": "rm -rf dist && rollup -c --bundleConfigAsCjs && tsc-alias && panda cssgen --outfile dist/styles.css",
-    "build:types": "tsc -p ./tsconfig.build.json",
     "lint": "eslint . --max-warnings 0",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",

@@ -21,36 +21,6 @@
   "type": "module",
   "exports": {
     "./styles.css": "./dist/styles.css",
-    "./Box": {
-      "types": "./dist/components/Box/index.d.ts",
-      "require": "./dist/Box.cjs",
-      "import": "./dist/Box.js"
-    },
-    "./Button": {
-      "types": "./dist/components/Button/index.d.ts",
-      "require": "./dist/Button.cjs",
-      "import": "./dist/Button.js"
-    },
-    "./Checkbox": {
-      "types": "./dist/components/Checkbox/index.d.ts",
-      "require": "./dist/Checkbox.cjs",
-      "import": "./dist/Checkbox.js"
-    },
-    "./Switch": {
-      "types": "./dist/components/Switch/index.d.ts",
-      "require": "./dist/Switch.cjs",
-      "import": "./dist/Switch.js"
-    },
-    "./TextField": {
-      "types": "./dist/components/TextField/index.d.ts",
-      "require": "./dist/TextField.cjs",
-      "import": "./dist/TextField.js"
-    },
-    "./Chip": {
-      "types": "./dist/components/Chip/index.d.ts",
-      "require": "./dist/Chip.cjs",
-      "import": "./dist/Chip.js"
-    },
     "./TextField1": {
       "types": "./dist/components/TextField1/index.d.ts",
       "require": "./dist/TextField1.cjs",

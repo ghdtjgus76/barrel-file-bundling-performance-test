@@ -1,2 +1,2 @@
 @layer reset, base, tokens, recipes, utilities;
-@import url("wowds-ui/styles.css");
+@import url("modularize-imports-ui/styles.css");

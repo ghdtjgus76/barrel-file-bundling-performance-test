@@ -8,7 +8,7 @@ import type {
   PropsWithChildren,
 } from "react";
 import { forwardRef, useId } from "react";
-import { Check as CheckIcon } from "wowds-icons";
+import { Check as CheckIcon } from "multiple-entry-imports-icons";
 
 import { useCheckedState } from "@/hooks";
 

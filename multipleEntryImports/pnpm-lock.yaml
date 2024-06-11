@@ -141,6 +141,9 @@ importers:
       lint-staged:
         specifier: ^15.2.2
         version: 15.2.2
+      multiple-entry-imports-tokens:
+        specifier: workspace:^
+        version: link:packages/wow-tokens
       postcss:
         specifier: ^8.4.38
         version: 8.4.38
@@ -183,12 +186,15 @@ importers:
       typescript:
         specifier: ^5.3.3
         version: 5.3.3
-      wowds-tokens:
-        specifier: workspace:^
-        version: link:packages/wow-tokens
 
   apps/wow-docs:
     dependencies:
+      multiple-entry-imports-icons:
+        specifier: workspace:^
+        version: link:../../packages/wow-icons
+      multiple-entry-imports-ui:
+        specifier: workspace:^
+        version: link:../../packages/wow-ui
       next:
         specifier: ^14.1.1
         version: 14.1.1(@babel/core@7.24.5)(react-dom@18.2.0)(react@18.2.0)
@@ -198,12 +204,6 @@ importers:
       react-dom:
         specifier: ^18.2.0
         version: 18.2.0(react@18.2.0)
-      wowds-icons:
-        specifier: workspace:^
-        version: link:../../packages/wow-icons
-      wowds-ui:
-        specifier: workspace:^
-        version: link:../../packages/wow-ui
     devDependencies:
       '@next/bundle-analyzer':
         specifier: ^14.2.3
@@ -247,15 +247,15 @@ importers:
 
   packages/wow-ui:
     dependencies:
+      multiple-entry-imports-icons:
+        specifier: workspace:^
+        version: link:../wow-icons
       next:
         specifier: ^14.1.1
         version: 14.1.1(@babel/core@7.24.5)(react-dom@18.2.0)(react@18.2.0)
       react:
         specifier: ^18.2.0
         version: 18.2.0
-      wowds-icons:
-        specifier: workspace:^
-        version: link:../wow-icons
     devDependencies:
       '@chromatic-com/storybook':
         specifier: ^1.3.3

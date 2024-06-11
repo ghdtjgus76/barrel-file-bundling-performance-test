@@ -1,5 +1,5 @@
 import { defineTokens } from "@pandacss/dev";
-import { space } from "wowds-tokens";
+import { space } from "multiple-entry-imports-tokens";
 
 export const spacing = defineTokens.spacing({
   xxs: {

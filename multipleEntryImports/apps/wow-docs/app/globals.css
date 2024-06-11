@@ -1,2 +1,2 @@
 @layer reset, base, tokens, recipes, utilities;
-@import url("wowds-ui/styles.css");
+@import url("multiple-entry-imports-ui/styles.css");

@@ -1,5 +1,5 @@
 import { defineTextStyles } from "@pandacss/dev";
-import { typography } from "wowds-tokens";
+import { typography } from "modularize-imports-tokens";
 
 export const textStyles = defineTextStyles({
   display1: {

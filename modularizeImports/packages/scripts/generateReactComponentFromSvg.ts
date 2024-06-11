@@ -82,7 +82,7 @@ const createComponentContent = (
 
   return `
     import { forwardRef } from 'react';
-    import { color } from "wowds-tokens";
+    import { color } from "modularize-imports-tokens";
     
     import type { IconProps } from "@/types/Icon.ts";
 

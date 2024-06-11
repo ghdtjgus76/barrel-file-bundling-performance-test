@@ -1,5 +1,5 @@
 import { defineTokens } from "@pandacss/dev";
-import { stroke as wowStroke } from "wowds-tokens";
+import { stroke as wowStroke } from "modularize-imports-tokens";
 
 export const borderWidths = defineTokens.borderWidths({
   button: {

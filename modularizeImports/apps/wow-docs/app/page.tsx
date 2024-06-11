@@ -1,5 +1,5 @@
 "use client";
-import { Checkbox, Chip } from "wowds-ui";
+import { Checkbox, Chip } from "modularize-imports-ui";
 
 const Home = () => {
   return (

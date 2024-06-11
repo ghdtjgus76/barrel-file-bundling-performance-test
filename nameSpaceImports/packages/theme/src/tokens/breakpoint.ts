@@ -1,4 +1,4 @@
-import { breakpoint } from "wowds-tokens";
+import { breakpoint } from "name-space-imports-tokens";
 
 export const breakpoints = {
   xs: breakpoint.xs,

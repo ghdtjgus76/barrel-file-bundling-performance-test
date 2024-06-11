@@ -1,5 +1,5 @@
 import { defineTokens } from "@pandacss/dev";
-import { radius } from "wowds-tokens";
+import { radius } from "multiple-entry-imports-tokens";
 
 export const radii = defineTokens.radii({
   sm: { value: radius.sm },

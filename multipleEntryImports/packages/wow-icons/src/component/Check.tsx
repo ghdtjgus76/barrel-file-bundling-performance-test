@@ -1,5 +1,5 @@
+import { color } from "multiple-entry-imports-tokens";
 import { forwardRef } from "react";
-import { color } from "wowds-tokens";
 
 import type { IconProps } from "@/types/Icon.ts";
 

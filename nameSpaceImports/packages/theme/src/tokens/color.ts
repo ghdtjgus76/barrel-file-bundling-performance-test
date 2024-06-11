@@ -1,5 +1,5 @@
 import { defineSemanticTokens, defineTokens } from "@pandacss/dev";
-import { color } from "wowds-tokens";
+import { color } from "name-space-imports-tokens";
 
 export const colors = defineTokens.colors({
   red: {

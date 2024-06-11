@@ -1,11 +1,14 @@
 "use client";
-import { Checkbox, Chip } from "modularize-imports-ui";
+
+import { Checkbox, Chip, Switch, TextField } from "modularize-imports-ui";
 
 const Home = () => {
   return (
     <>
       <Checkbox />
       <Chip label="chip" />
+      <Switch />
+      <TextField label="chip" />
     </>
   );
 };
